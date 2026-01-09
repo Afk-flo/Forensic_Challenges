@@ -17,6 +17,7 @@ Collection de cheat sheets, challenges et ressources en forensic numérique (mem
 | ExfilNode | Disk | Medium | Exfiltration USB & Backdoor | [Writeup](./Disk/ExfilNode/ExfileNode.md) |
 | IreonShade | Disk | Medium | Hôte comprimis | [Writeup](./Disk/IronShade/IronShade.md) |
 | Lost In RAMslation | Memory | Hard | DLL Malveillant | [Writeup](./Memory/Lost_in_RAMslation/Lost_in_RAMslation.md) |
+| Shadow Trace | Malware | Easy | PE Malware + Traces | [Writeup](./Malware/Shadow_Trace/Shadow_Trace.md) |
 
 ## Outils
 
@@ -26,5 +27,6 @@ Collection de cheat sheets, challenges et ressources en forensic numérique (mem
 - **Mobile Forensics**: ADB, ALEAPP, ILEAPP
 
 ---
+
 
 
