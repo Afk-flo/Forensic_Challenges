@@ -1,4 +1,4 @@
-# 🔍 Digital Forensics Resources
+# Digital Forensics Resources
 
 Collection de cheat sheets, challenges et ressources en forensic numérique (memory, disk, network forensics).
 
