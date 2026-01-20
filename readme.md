@@ -26,6 +26,7 @@ Collection de cheat sheets, challenges et ressources en forensic numérique (mem
 - **Disk Forensics**: Autopsy, FTK Imager, Sleuth Kit
 - **Network Forensics**: Wireshark, tcpdump, NetworkMiner
 - **Mobile Forensics**: ADB, ALEAPP, ILEAPP
+- **Développement**: Python, C, PHP, Flask, Django
 
 ---
 
